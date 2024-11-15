@@ -18,3 +18,11 @@ A C-based Bank Management System for handling basic customer account operations 
 1. Compile the code:
    ```bash
    gcc src/bank_management.c -o bank_management
+
+#### Sample Credentials
+Password to access the system: project
+
+#### Authors
+- Jay Patel (AU2040014)
+- Roshani Navdiya (AU2040114)
+- Pruthviraj Dodiya (AU2040175)
